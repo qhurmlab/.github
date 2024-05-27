@@ -8,6 +8,10 @@
 
 - 口号：~~Tech OKATUS save the world.~~ 待定
 
+- 形象大使：**Silver Wolf** from StarRail
+
+![Silver Wold](https://foruda.gitee.com/images/1716809318567243353/f5778d2c_10748211.jpeg)
+
 ## 关于此组织
 
 - 此组织为战队算法组某成(cai)员(gou)为搞怪与开源本战队自瞄算法等工作所建。
