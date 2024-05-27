@@ -2,7 +2,7 @@
 
 ## 关于我们
 
-- 我们是**来自青藏高原的神奇力量**，为世界所有美好而战。
+- 我们是**来自青藏高原的神秘力量**，为世界所有美好而战。
 
 - 成立于2016年，往届RoboMaster、工程训练等大赛获奖若干。
 
@@ -10,7 +10,7 @@
 
 - 形象大使：**Silver Wolf** from StarRail
 
-![Silver Wold](https://foruda.gitee.com/images/1716809318567243353/f5778d2c_10748211.jpeg)
+![Silver Wolf](https://foruda.gitee.com/images/1716809318567243353/f5778d2c_10748211.jpeg)
 
 ## 关于此组织
 
